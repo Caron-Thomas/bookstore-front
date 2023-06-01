@@ -3,6 +3,7 @@ img {
 }
 
 .header{
+    display: flex;
     justify-content: center;
     background-color: aqua;
     height: 10%;
